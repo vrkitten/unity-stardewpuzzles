@@ -1,2 +1,2 @@
 # unity-stardewpuzzles
-simple Stardew Valley themed puzzle games
+my first unity project, simple Stardew Valley themed puzzle games
