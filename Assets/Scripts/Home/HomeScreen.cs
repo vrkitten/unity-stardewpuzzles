@@ -8,7 +8,7 @@ public class HomeScreen : MonoBehaviour
     
     public void StartGame()
     {
-        SceneManager.LoadScene("GameScene");
+        SceneManager.LoadScene("MatchingGameScene");
     }
 
     public void QuitGame()

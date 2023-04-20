@@ -5,7 +5,7 @@ using UnityEngine;
 public class ButtonScript : MonoBehaviour
 {
 
-    [SerializeField] private GameController gameController;
+    [SerializeField] private MatchingGameController gameController;
     [SerializeField] private string functionOnClick;
 
     public void OnRestartButtonClicked()
